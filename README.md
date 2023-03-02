@@ -8,3 +8,5 @@
  `git clone https://github.com/bmuzuraimov/processing-game`
 
  2. Run the application with Processing IDE and click run button
+ 
+ Please note that folder name must be same as name of running file
